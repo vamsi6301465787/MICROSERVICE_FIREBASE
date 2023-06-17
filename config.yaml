@@ -1,0 +1,3 @@
+inputPath: openapi.yaml
+outputPath: dist
+generator: '@openapi-generator-plus/typescript-express-passport-server-generator'

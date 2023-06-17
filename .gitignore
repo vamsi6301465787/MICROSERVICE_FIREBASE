@@ -1,0 +1,12 @@
+
+key.json
+
+dist/
+
+build/
+
+node_modules/
+
+# "engines": {
+#     "node": "19"
+#   },
